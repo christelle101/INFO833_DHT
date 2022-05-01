@@ -2,6 +2,6 @@ package helloWorld;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello bitches");
+        System.out.println(-1%10);
     }
 }
